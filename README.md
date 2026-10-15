@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/nintendo-ds/luminous-arc-3-eyes)**.
+
 Traducción al **español de España** de *Luminous Arc 3: Eyes* (ルミナスアーク3 アイズ,
 Nintendo DS, 2009), el RPG táctico de imageepoch publicado por Marvelous Entertainment,
 que solo salió en Japón. Es una traducción **directa del japonés**.
